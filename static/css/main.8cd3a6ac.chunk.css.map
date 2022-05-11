@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEA,aACE,cAAe","file":"main.8cd3a6ac.chunk.css","sourcesContent":["// styles go here\n\n.buttonStyle {\n  cursor: pointer;\n}\n"]}
